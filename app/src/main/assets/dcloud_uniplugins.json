@@ -1,0 +1,13 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Cloud-Phone",
+          "class": "com.feihu.cp.ClientModule"
+        }
+      ]
+    }
+  ]
+}
